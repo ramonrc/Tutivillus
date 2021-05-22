@@ -3,7 +3,7 @@ widget: slider
 headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (section position etc.) ...
-weight: 10  # Order that this section will appear.
+weight: 100  # Order that this section will appear.
 title: ""
 subtitle: ""
 # Slide interval.
@@ -16,8 +16,8 @@ height: 300px
 
 
 item:
-  - title: Hello
-    content: 'I am center aligned 😄'
+  - title: Investigavión-Acción en el estudio ...
+    content: 'Curso sobre masculinidades 😄'
     # Choose `center`, `left`, or `right` alignment.
     align: center
     # Overlay a color or image (optional).
@@ -28,8 +28,8 @@ item:
     # Call to action button (optional).
     #   Activate the button by specifying a URL and button label below.
     #   Deactivate by commenting out parameters, prefixing lines with `#`.
-    cta_label: Download my app
-    cta_url: 'https://example.org'
+    cta_label: Comprar el curso
+    cta_url: 'https://tutivillus.com.mx/books/investigacion-accion-en-el-estudio-de-las-masculinidades/'
     cta_icon_pack: fas
     cta_icon: graduation-cap
   - title: Left
