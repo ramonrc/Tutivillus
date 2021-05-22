@@ -17,7 +17,7 @@ advanced:
   css_class:
 ---
 
-# [Sitio](news/) 
+## [Sitio](news/) 
 
-# [Semillero](https://semillero.tutivillus.com.mx/)
+## [Semillero](https://semillero.tutivillus.com.mx/)
 
