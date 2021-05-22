@@ -1,11 +1,9 @@
-
-
-```markdown
+---
 widget: slider
 headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (section position etc.) ...
-weight: 100  # Order that this section will appear.
+weight: 10  # Order that this section will appear.
 title: ""
 subtitle: ""
 # Slide interval.
@@ -46,5 +44,4 @@ item:
     overlay_color: '#333'
     overlay_img: ''
     overlay_filter: 0.5
-```
-
+---
