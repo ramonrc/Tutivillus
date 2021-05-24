@@ -10,7 +10,7 @@ headless: true
 weight: 10
 
 title: Contactanos
-subtitle:
+subtitle: Deseas colaborar con Tutivillus
 
 content:
   # Automatically link email and phone or display as text?
@@ -26,9 +26,11 @@ content:
       captcha: false
 
 design:
-  columns: '1'
+  columns: '2'
 ---
 
 
 
-Interés en participar como instructor o como ......
+## Conviértete en colaborador
+
+Llena este formulario para comunicarte con nosotros si deseas compartir conocimientos o aportar a que crezca el proyecto Tutivillus.

@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Dr. Historian
+title: Anel Hernández Sotelo
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Profesor
+role: Coordinadora
 
 # Organizations/Affiliations
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Interesado en investigación y docencia
+bio: Interesada en investigación y docencia
 
 interests:
 - Historia
@@ -46,7 +46,7 @@ social:
 #  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=SqGOT-URAAAJ
+  link: https://scholar.google.co.uk/citations?user=SqGOT-UAAAAJ
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
@@ -62,7 +62,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Investigadores
+- Coordinadores
+- Cuerpo de Profesores
 ---
 
-Dr. Historian es nuestro asesor externo nos valida ....
+Anel es la cabeza del proyecto en ......

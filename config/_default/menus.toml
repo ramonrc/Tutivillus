@@ -4,14 +4,19 @@
 #   The weight parameter defines the order that the links will appear in.
 
 #[[main]]
-#  name = "Home"
+#  name = "Inicio"
 #  url = "/"
-#  weight = 10
+#  weight = 1
 
 [[main]]
   name = "Sitio"
   url = "sitio"
   weight = 10
+
+[[main]]
+  name = "Semillero"
+  url = "https://semillero.tutivillus.com.mx/"
+  weight = 15
 
 [[main]]
   name = "Agoras"
@@ -28,10 +33,10 @@
   url = "post"
   weight = 40
 
-[[main]]
-  name = "Equipo"
-  url = "equipo"
-  weight = 50
+#[[main]]
+#  name = "Equipo"
+#  url = "equipo"
+#  weight = 50
 
 [[main]]
   name = "Contacto"

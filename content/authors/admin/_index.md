@@ -6,32 +6,28 @@ title: Ramón Reyes
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Analista de datos en CDIAR
 
 # Organizations/Affiliations
 organizations:
-- name: University of Oxford
+- name: UNAM
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Su investigación incluye aspectos de geometría diferencial y desarrollo de aplicaciones web
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Análisis de datos
+- Teoría de espinores
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Dphill in mathematics
+    institution: University of Oxford
+    year: 1994
+  - course: Licenciatura en matemáticas
+    institution: UNAM
+    year: 1988
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -69,3 +65,4 @@ user_groups:
 ---
 
 Ramón es el webmaster de este sitio.
+
