@@ -1,36 +1,36 @@
 ---
 # Display name
-title: Ramón Reyes
+title: Dr. Historian
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Profesor
 
 # Organizations/Affiliations
 organizations:
-- name: University of Oxford
+- name: ENAH
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Interesado en investigación y docencia
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Historia
+- Pedagogía
+- Historia medieval
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
+  - course: Doctorado en historia ...
     institution: Stanford University
     year: 2012
-  - course: MEng in Artificial Intelligence
+  - course: Maestría en pedagogía
     institution: Massachusetts Institute of Technology
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: Licenciatura
+    institution: UNAM
     year: 2008
 
 # Social/Academic Networking
@@ -40,7 +40,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:ramon@ramonrc.com'
+  link: 'mailto:info@tutivillus.com.mx'
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -54,10 +54,10 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: https://cv.reymon.mx/media/demo_resume.pdf
+  link: media/demo_resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "ramon@ramonrc.com"
+email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -65,7 +65,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Técnicos
+- Investigadores
 ---
 
 Ramón es el webmaster de este sitio.

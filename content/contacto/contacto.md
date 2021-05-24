@@ -31,4 +31,4 @@ design:
 
 
 
-Interes en participar
+Interés en participar como instructor o como ......
