@@ -14,26 +14,26 @@
   weight = 10
 
 [[main]]
+  name = "Agoras"
+  url = "evento"
+  weight = 20
+
+[[main]]
+  name = "Tarantelas"
+  url = "publicacion"
+  weight = 30
+
+[[main]]
   name = "Blog"
   url = "post"
-  weight = 20
+  weight = 40
 
 [[main]]
   name = "Equipo"
   url = "people"
-  weight = 30
-
-[[main]]
-  name = "Agoras"
-  url = "event"
-  weight = 40
-
-[[main]]
-  name = "Tarantelas"
-  url = "publication"
   weight = 50
 
 [[main]]
-  name = "Contact"
-  url = "contact"
+  name = "Contacto"
+  url = "contacto"
   weight = 60
