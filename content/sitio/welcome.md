@@ -15,8 +15,19 @@ design:
 advanced:
   css_style:
   css_class:
+info:
+- descr: El proyecto Tutivillus
+  tipo: primary
+  url: publicacion/proyecto
+- descr: El demonio Tutivillus
+  tipo: info
+  url: publicacion/demonio
+- descr: Nosotros
+  tipo: dark
+  url: contacto
 ---
 
 
 
 Columnas?
+
