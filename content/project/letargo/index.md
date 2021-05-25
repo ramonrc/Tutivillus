@@ -1,4 +1,5 @@
 ---
+type: widget_page
 slides: 
 url_pdf: ""
 summary: ""
