@@ -3,7 +3,7 @@ widget: slider
 headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (section position etc.) ...
-weight: 10  # Order that this section will appear.
+weight: 20  # Order that this section will appear.
 title: ""
 subtitle: ""
 # Slide interval.
@@ -28,7 +28,7 @@ item:
     # Call to action button (optional).
     #   Activate the button by specifying a URL and button label below.
     #   Deactivate by commenting out parameters, prefixing lines with `#`.
-    cta_label: 'Inctibete a la tarantela'
+    cta_label: 'Inscribete a la tarantela'
     cta_url: '/evento/masculinidades/'
     cta_icon_pack: fas
     cta_icon: graduation-cap
@@ -38,7 +38,7 @@ item:
     overlay_color: '#555'
     overlay_img: 'Ishtar-satan-entre-oriente.jpg'
     overlay_filter: 0.8
-    cta_label: 'Inctibete a el agora'
+    cta_label: 'Inscribete a el agora'
     cta_url: '/evento/satan/'
     cta_icon_pack: fas
     cta_icon: graduation-cap
@@ -48,7 +48,7 @@ item:
     overlay_color: '#333'
     overlay_img: 'cropped-librs-giga-con-brazos.jpg'
     overlay_filter: 0.5
-    cta_label: 'Inctibete a el agora'
+    cta_label: 'Inscribete a el agora'
     cta_url: '/evento/poeticas/'
     cta_icon_pack: fas
     cta_icon: graduation-cap

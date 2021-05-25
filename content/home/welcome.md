@@ -17,13 +17,12 @@ advanced:
   css_class:
 ---
 
-## {{< cta cta_text="Sitio" cta_link="/sitio/" cta_new_tab="true" >}}
+<center><h1>
 
-<center><h2>
 
 [Sitio](/sitio/ "Sitio principal")
 
 [Semillero](https://semillero.tutivillus.com.mx/ "Semillero")
 
-</h2><center>
+</h1><center>
 
