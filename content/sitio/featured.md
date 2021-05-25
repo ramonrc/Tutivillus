@@ -10,7 +10,7 @@ headless: true
 weight: 80
 
 title: "Secciones"
-subtitle: "Tutivillus"
+subtitle: ""
 
 content:
   # Page type to display. E.g. post, talk, publication...

@@ -25,8 +25,6 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-  - name: Todos
-    tag: '*'
   - name: Agoras
     tag: agora
   - name: Tarantelas
@@ -46,5 +44,5 @@ design:
   view: 3
 
   # For Showcase view, flip alternate rows?
-  flip_alt_rows: false
+  flip_alt_rows: true
 ---

@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Proyectos
 view: 4
 
 header:
