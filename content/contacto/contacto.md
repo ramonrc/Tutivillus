@@ -10,7 +10,7 @@ headless: true
 weight: 10
 
 title: Contactanos
-subtitle: Deseas colaborar con Tutivillus
+subtitle: ¿Deseas colaborar con Tutivillus?
 
 content:
   # Automatically link email and phone or display as text?

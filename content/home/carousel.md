@@ -44,9 +44,9 @@ item:
     cta_icon: graduation-cap
   - title: Poéticas de la Intertextualidad
     content: 'Curso sobre poética 😄'
-    align: right
+    align: center
     overlay_color: '#333'
-    overlay_img: ''
+    overlay_img: 'cropped-librs-giga-con-brazos.jpg'
     overlay_filter: 0.5
     cta_label: 'Inctibete a el agora'
     cta_url: '/evento/poeticas/'
