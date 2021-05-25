@@ -10,7 +10,7 @@ categories:
 external_link: 
 title: El demonio Tutivillus
 subtitle: DEMONIO GRAMÁTICO Y ESCRITOR
-featured: true
+featured: false
 tags:
   - proyecto
 links: []

@@ -9,6 +9,7 @@ weight: 10  # Order that this section will appear.
 title: ""
 subtitle: ""
 hero_media: Agoras.png
+featured: true
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
