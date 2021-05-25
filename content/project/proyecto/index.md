@@ -28,21 +28,20 @@ projects: []
 
  
 
-Tutivillus es un espacio virtual de enseñanza libre de la historia (y de sus ciencias y disciplinas afines) creado para agitar, remover e inquietar nuestras memorias colectivas en este convulso siglo XXI. Los cimientos de esta cibercultura descansan en la convicción de que los procesos de enseñanza- aprendizaje deben ser horizontales y circulares, es decir, dialógicos, experienciales y críticos; en la comprensión de la actividad educativa y el trabajo intelectual como disfrute, creatividad, empatía, inteligencia y crítica; y en la certeza de que “la memoria es antes que todo una función colectiva”. 2 En este sentido, el espacio tutivilliano se define como:
+Tutivillus es un espacio virtual de enseñanza libre de la historia (y de sus ciencias y disciplinas afines) creado para agitar, remover e inquietar nuestras memorias colectivas en este convulso siglo XXI. Los cimientos de esta cibercultura descansan en la convicción de que los procesos de enseñanza- aprendizaje deben ser horizontales y circulares, es decir, dialógicos, experienciales y críticos; en la comprensión de la actividad educativa y el trabajo intelectual como disfrute, creatividad, empatía, inteligencia y crítica; y en la certeza de que “la memoria es antes que todo una función colectiva”. [^2] En este sentido, el espacio tutivilliano se define como:
 
 ### 1. Una cooperativa de saberes históricos, de sus menudencias y sus errores
 
-En Tutivillus proyectamos nuestras ágoras como unidades autónomas, integradas por personas que establecen una relación de reciprocidad antropohistórica basada en la acción dialógica con el objetivo de estudiar, criticar, debatir, comparar, crear y compartir conocimientos y experiencias, a partir de la propuesta pedagógica del creador o los creadores del programa. En esta dinámica de colaboración, nos escindimos de la educación bancaria y domesticadora, ^3 y apostamos por explorar el sentido generador, concientizador y comunicativo de hombres y mujeres.
+En Tutivillus proyectamos nuestras ágoras como unidades autónomas, integradas por personas que establecen una relación de reciprocidad antropohistórica basada en la acción dialógica con el objetivo de estudiar, criticar, debatir, comparar, crear y compartir conocimientos y experiencias, a partir de la propuesta pedagógica del creador o los creadores del programa. En esta dinámica de colaboración, nos escindimos de la educación bancaria y domesticadora, [^3] y apostamos por explorar el sentido generador, concientizador y comunicativo de hombres y mujeres.
 
 ### 2. Un semillero de desconcentración
 
-Un semillero es, además de sus acepciones tradicionales, “origen y principio de que nacen o se propagan algunas cosas”. Por su parte, el verbo desconcentrar indica la pérdida de atención puesta en algo, pero también la acción de “repartir entre varios algo que está concentrado en un lugar o que es responsabilidad de una persona”.4 Así, frente al conocimiento que se pretende como
+Un semillero es, además de sus acepciones tradicionales, “origen y principio de que nacen o se propagan algunas cosas”. Por su parte, el verbo desconcentrar indica la pérdida de atención puesta en algo, pero también la acción de “repartir entre varios algo que está concentrado en un lugar o que es responsabilidad de una persona”.[^1] Así, frente al conocimiento que se pretende como
 único, legítimo y acabado, que es regulado mediante instituciones hegemónicas y que está concentrado entre unos pocos que lo convierten en poder verticalmente ejercido; Tutivillus quiere germinar como propagación de ideas y sentires, inaugurando posibilidades de responsabilidad compartida -construidas por la suma de voluntades individuales- en los ámbitos de los saberes
 vinculados con el pasado, con las memorias y con los presentes de los olvidos.
 
  
 
-1 Rimbaud, Arthur, Una temporada en el infierno (Une Saison en enfer), Trad. y notas de Juan Abeleira. Texto bilingüe,
-Madrid: Hipeirón, 1997, pp. 13-17. 2 Halbwachs, Maurice, Los marcos sociales de la memoria, Barcelona: Anthopos / Universidad de la Concepción de Chile /
-Universidad Central de Venezuela, 2004, p. 337.
-3 Freire, Paulo, Pedagogía del oprimido, México: Siglo XXI, 2005.
+[^1]: Rimbaud, Arthur, Una temporada en el infierno (Une Saison en enfer), Trad. y notas de Juan Abeleira. Texto bilingüe, Madrid: Hipeirón, 1997, pp. 13-17. 
+[^2]: Halbwachs, Maurice, Los marcos sociales de la memoria, Barcelona: Anthopos / Universidad de la Concepción de Chile / Universidad Central de Venezuela, 2004, p. 337.
+[^3]: Freire, Paulo, Pedagogía del oprimido, México: Siglo XXI, 2005.
