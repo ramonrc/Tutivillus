@@ -17,7 +17,7 @@ advanced:
   css_class:
 ---
 
-{{< button "/sitio/" "Sitio">}}
+{{< cta cta_text="Sitio" cta_link="/sitio/" cta_new_tab="true" >}}
 
 <center>
 
