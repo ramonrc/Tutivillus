@@ -28,3 +28,17 @@ item:
 ---
 
 ### Tutivillus
+
+        <div class="container">
+
+
+<div class="btn-toolbar" role="toolbar" aria-label="Toolbar with button groups">
+    
+          <div class="btn-group btn-group-lg" role="group" aria-label="pro">
+            <a href="project/proyecto/" class="btn btn-{{ .tipo }}">{{ .descr }}</a>
+          </div>
+    
+</div>
+```html
+    </div>
+```
