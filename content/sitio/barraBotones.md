@@ -32,7 +32,15 @@ item:
 <div class="container">
 
 
+<div class="btn-toolbar" role="toolbar" aria-label="Toolbar with button groups">
+    <div class="btn-group btn-group-lg" role="group" aria-label="pro">
+        <a href="/project/proyecto/" class="btn btn-primary">El proyecto Tutivillus</a>
+    </div>
+    <div class="btn-group btn-group-lg" role="group" aria-label="dem">
+        <a href="/project/demonio/" class="btn btn-info">El demonio Tutivillus</a>
+    </div>
+    <div class="btn-group btn-group-lg" role="group" aria-label="nos">
+        <a href="/contacto/" class="btn btn-dark">Contacto</a>
+    </div>
+</div></div>
 
-<div class="btn-toolbar" role="toolbar" aria-label="Toolbar with button groups"><div class="btn-group btn-group-lg" role="group" aria-label="pro">
-        <a href="project/proyecto/" class="btn btn-primary">Proyecto</a>
-      </div></div></div>
