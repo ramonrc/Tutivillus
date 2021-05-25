@@ -6,15 +6,8 @@
 widget: 'github.ramonrc.sitio'  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 1  # Order that this section will appear.
-title: Widget
+title: Barra de botones
 subtitle: ""
-hero_media: tutivillus.png
-design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '2'
-advanced:
-  css_style:
-  css_class:
 item:
   - descr: El proyecto Tutivillus
     tipo: primary
@@ -42,5 +35,9 @@ item:
     <div class="btn-group btn-group-lg" role="group" aria-label="nos">
         <a href="/contacto/" class="btn btn-dark">Contacto</a>
     </div>
+    <div class="btn-group btn-group-lg" role="group" aria-label="face">
+        <button class="btn btn-default">
+     <img src="https://scontent.xx.fbcdn.net/v/t1.6435-9/s960x960/158991042_211820874027323_4133750573823010055_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=e3f864&_nc_ohc=TR20tehwbAsAX_irQba&_nc_ht=scontent.xx&tp=7&oh=c6c416eb7f19d7403f611f85c0b42064&oe=60D39A37" width="20" />Facebook
+</button>
+    </div>
 </div></div>
-
