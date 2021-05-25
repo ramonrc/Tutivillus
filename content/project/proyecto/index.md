@@ -7,7 +7,7 @@ date: 2020-02-17T13:45:26.860Z
 categories:
   - proyecto
   - Tutivillus
-external_link: https://hrpower.com
+external_link:
 url_slides: ""
 title: El proyecto Tutivillus
 subtitle: ESPACIO DE AGITACIÓN HISTÓRICA

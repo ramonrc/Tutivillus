@@ -7,8 +7,7 @@ date: 2020-02-17T13:45:26.860Z
 categories:
   - demonio
   - Tutivillus
-external_link: https://hrpower.com
-url_slides: ""
+external_link: 
 title: El demonio Tutivillus
 subtitle: DEMONIO GRAMÁTICO Y ESCRITOR
 tags:
