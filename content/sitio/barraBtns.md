@@ -5,7 +5,7 @@
 
 widget: 'github.ramonrc.sitio'  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
-weight: 10  # Order that this section will appear.
+weight: 1  # Order that this section will appear.
 title: Widget
 subtitle: ""
 hero_media: tutivillus.png
@@ -16,16 +16,15 @@ advanced:
   css_style:
   css_class:
 info:
-- descr: El proyecto Tutivillus
-  tipo: primary
-  url: publicacion/proyecto
-- descr: El demonio Tutivillus
-  tipo: info
-  url: publicacion/demonio
-- descr: Nosotros
-  tipo: dark
-  url: contacto
+  - descr: El proyecto Tutivillus
+    tipo: primary
+    url: publicacion/proyecto
+  - descr: El demonio Tutivillus
+    tipo: info
+    url: publicacion/demonio
+  - descr: Nosotros
+    tipo: dark
+    url: contacto
 ---
 
 ### Tutivillus
-
