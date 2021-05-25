@@ -20,12 +20,12 @@
 
 [[main]]
   name = "Agoras"
-  url = "evento"
+  url = "/project/agora/"
   weight = 20
 
 [[main]]
   name = "Tarantelas"
-  url = "publicacion"
+  url = "/project/tarantela/"
   weight = 30
 
 [[main]]
