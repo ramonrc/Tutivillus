@@ -10,13 +10,13 @@ title: ""
 subtitle: ""
 feature:
   - descr: Agoras
-    img: /static/images/Agoras_sm.png
+    img: /media/Agoras_sm.png
     url: /project/agora
   - descr: Tarantelas
-    img: /static/images/Tarantela_sm.png
+    img: /media/Tarantela_sm.png
     url: /project/tarantela
   - descr: Letargos
-    img: /static/images/Letargo_sm.png
+    img: /media/Letargo_sm.png
     url: /project/letargo
 
 ---
