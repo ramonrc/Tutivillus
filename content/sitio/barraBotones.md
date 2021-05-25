@@ -15,7 +15,7 @@ design:
 advanced:
   css_style:
   css_class:
-info:
+item:
   - descr: El proyecto Tutivillus
     tipo: primary
     url: publicacion/proyecto
