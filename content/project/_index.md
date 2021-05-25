@@ -3,6 +3,6 @@ title: Proyectos
 view: 4
 
 header:
-  caption: ""
-  image: ""
+  caption: "Los cuates"
+  image: "contact.jpg"
 ---
