@@ -17,7 +17,11 @@ advanced:
   css_class:
 ---
 
-## [Sitio](sitio/) 
+{{< button "/sitio/" "Sitio">}}
 
-## [Semillero](https://semillero.tutivillus.com.mx/)
+<center>
+
+[Sitio](/sitio/ "Sitio principal")
+
+</center>
 
