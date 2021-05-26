@@ -3,6 +3,8 @@ name = "Minimal"
 
 # Optional Google font URL
 google_fonts = "family=Gloria+Hallelujah:wght@400&family=Roboto+Mono&family=Roboto:wght@400;700"
+#Nanum+Brush+Script
+#Nanum+Pen+Script
 
 # Font families
 heading_font = "Gloria Hallelujah"
