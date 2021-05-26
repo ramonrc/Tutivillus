@@ -17,7 +17,7 @@ height: 600px
 
 item:
   - title: Investigación-Acción en el estudio ...
-    content: 'Seminario sobre masculinidades :pencil:'
+    content: 'Seminario sobre masculinidades 🚶'
     # Choose `center`, `left`, or `right` alignment.
     align: center
     # Overlay a color or image (optional).
@@ -33,7 +33,7 @@ item:
     cta_icon_pack: fas
     cta_icon: graduation-cap
   - title: El Satán entre Oriente y Occidente
-    content: 'Cosmogonías Indoeuropeas y Simbolismo Transreligioso :scissors:'
+    content: 'Cosmogonías Indoeuropeas y Simbolismo Transreligioso 🎭'
     align: center
     overlay_color: '#555'
     overlay_img: 'Ishtar-satan-entre-oriente.jpg'
@@ -43,7 +43,7 @@ item:
     cta_icon_pack: fas
     cta_icon: graduation-cap
   - title: Poéticas de la Intertextualidad
-    content: 'Curso sobre poética 😄'
+    content: 'Curso sobre poética :scissors:'
     align: center
     overlay_color: '#333'
     overlay_img: 'cropped-librs-giga-con-brazos.jpg'
